@@ -10,3 +10,7 @@ public class Methods {
         return a + b + c;
     }
 }
+
+// void just returns a string
+// int returns a number
+// static so that we don't have to call them
